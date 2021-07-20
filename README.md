@@ -11,3 +11,5 @@ I built this off of the Cognex Insight DLL. I chose Native/Telnet method of comm
 Im probaly not going to develop this futher but fell free to add more. I built in a good chunk of avalible commands but not all of them. You can view the cognex native commands in the insight explorer help file
 
 I used this to build a multi-cam insight system in a VB winforms
+
+Tested on a Insight 9912 and a ISM1100. Will not work on a IS2000 but should work on any other insight camera
